@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.booking.ticket_service_homework.TestClass
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 4.044 sec
